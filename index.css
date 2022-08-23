@@ -83,6 +83,7 @@ img {
     width: 40%;
     object-fit:cover;
     border-bottom-right-radius: 20px;
+    margin-top: 20px;
     margin-right: 0px;
     filter:brightness(120%);
 }
