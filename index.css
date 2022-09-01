@@ -24,7 +24,6 @@ body {
     display: flex;
     width:60%;
     border-radius: 25px;
-    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     justify-content:space-between;
@@ -71,7 +70,6 @@ button {
     font-weight: 600;
     font-family: roboto;
     cursor: pointer;
-
 }
 
 button:hover {
